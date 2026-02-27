@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="untitled.gif" width="800" />
+  <img src="githubsnake.svg" width="800" />
 </div>
